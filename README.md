@@ -58,72 +58,6 @@
 
 ---
 
-## ⚡ About Me
-
-<table>
-<tr>
-<td valign="top" width="54%">
-
-```yaml
-profile:
-  name: "Md. Minhazul Islam"
-  title: "Assistant Network Engineer"
-  company: "Amber IT Limited, Dhaka"
-  experience: "3+ Years"
-  specialization:
-    - ISP Infrastructure Architecture
-    - Radio Frequency Engineering
-    - Network Automation & Monitoring
-    - Enterprise Routing & Switching
-  mission: >
-    Engineering fault-tolerant, high-availability
-    networks that scale across 300+ POPs
-    nationwide — driving automation to
-    eliminate incidents and minimize MTTR.
-```
-
-</td>
-<td valign="top" width="46%">
-
-```python
-class MinhazulIslam:
-    role   = "Network Engineer"
-    org    = "Amber IT Limited"
-    loc    = "Dhaka, Bangladesh"
-    certs  = ["CCNA", "CompTIA A+",
-              "IT Support L-3"]
-    skills = [
-        "ISP Operations (300+ POPs)",
-        "RF Engineering & Spectrum",
-        "Network Automation (Python)",
-        "VLAN / ACL / NAT Architecture",
-    ]
-
-    def open_to(self) -> list:
-        return [
-            "Senior Network Engineer",
-            "Network Automation Engineer",
-            "Cloud Network Architect",
-            "Infrastructure Specialist",
-        ]
-```
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-> 🔭 **Currently** — Engineering scalable ISP infrastructure at **Amber IT Limited**, a nationwide IPTSP operator running **350+ dedicated POPs** across Bangladesh, coordinating with 7 national telecom vendors.
->
-> 🌐 **Mission** — Architecting carrier-grade networks, automating fault detection via SNMP & Syslog pipelines, and reducing RF link failures through advanced spectrum analysis and frequency optimization.
->
-> 🚀 **Open To** — Senior Network Engineer · Cloud Networking Architect · Network Automation Engineer · Infrastructure Specialist · Remote & International Roles
-
-<br/>
-
----
-
 ## 🛠️ Tech Stack
 
 <br/>
@@ -539,45 +473,6 @@ Architected and deployed a multi-tier VLAN segmentation strategy across the nati
 <br/>
 
 ---
-
-## 🎯 Current Focus
-
-<br/>
-
-```yaml
-current_focus:
-
-  learning:
-    - "Network Automation: NAPALM · Ansible for Networking · NetConf / YANG"
-    - "Cloud Networking: AWS VPC · Azure Virtual Networks · GCP Architecture"
-    - "Software-Defined Networking (SDN) and Network Function Virtualization (NFV)"
-    - "Advanced BGP Route Optimization and ISP Transit / Peering Strategies"
-    - "Python scripting for large-scale network observability and telemetry"
-
-  building:
-    - "Python automation framework for ISP-scale router and switch config management"
-    - "SNMP-based real-time monitoring dashboards for 300+ POP network visibility"
-    - "RF link quality analysis tools using historical spectrum capture datasets"
-    - "Automated VLAN provisioning and ACL policy enforcement pipelines"
-
-  exploring:
-    - "Zero-Trust Network Architecture (ZTNA) implementation frameworks"
-    - "Kubernetes networking and CNI plugin architecture patterns"
-    - "Network observability with OpenTelemetry, Prometheus, and Grafana"
-    - "Terraform for network infrastructure as code (IaC)"
-
-  open_to:
-    - "Senior Network Engineer"
-    - "Network Automation Engineer"
-    - "Cloud Network Architect"
-    - "Infrastructure Engineer — ISP / Telecom"
-    - "Remote and International Networking Roles"
-```
-
-<br/>
-
----
-
 ## 🤝 Connect
 
 <br/>
